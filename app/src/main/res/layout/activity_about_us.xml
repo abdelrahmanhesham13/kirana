@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context="com.softclads.Gagron.NavItemsActivities.AboutUsActivity">
+
+    <include
+        android:id="@+id/app_bar"
+        layout="@layout/action_bar" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="17dp">
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:text="About Us"
+            android:gravity="center"
+            android:textSize="22sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginLeft="3dp"
+            android:text='"Gagron.com is a venture of "First Tech and IT Services" it is an e-commerce venture that provides food staples and household items at your doorstep.
+
+        We are a local mobile e-commerce platform that is transforming the shopping experience for people like you, by connecting them to Our Online Shopping store. We aim to become the one-stop shop for all your daily needs. Users can order through the Website and app get everything delivered to their doorstep, quickly.
+
+        We offer a wide assortment of groceries, fruits and vegetables, cosmetics, electronics, bakery items, flowers and much more.
+
+        Our efficient and bulk procurement, state-of-the-art storage and handling, and unmatched logistics enable us to pass on the price and quality advantage to our customers.
+
+        We firmly believe that ultimately it is the customer trust that creates profitable businesses. We bring highest quality products at the most honest, reasonable and competing prices with unmatched convenience – savings on time and money!!!
+
+        We shall continue to strive hard to innovate and discover efficient means to create value for our customers, employees and community.s.'
+            android:textSize="16sp" />
+
+       <!-- <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="3dp"
+            android:layout_marginTop="8dp"
+            android:text="Read More"
+            android:gravity="right"
+            android:textColor="#305907"
+            android:textSize="22sp" />-->
+    </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

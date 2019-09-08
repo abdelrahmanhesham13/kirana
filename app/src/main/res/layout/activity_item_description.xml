@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="com.softclads.Gagron.ItemDescriptionActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <com.smarteist.autoimageslider.SliderLayout
+            android:id="@+id/imageSlider"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_alignParentTop="true" />
+        <com.willy.ratingbar.ScaleRatingBar
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/simpleRatingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            app:srb_numStars="5"
+            app:srb_minimumStars="1"
+            app:srb_rating="3"
+            app:srb_starWidth="20dp"
+            app:srb_starHeight="20dp"
+            app:srb_starPadding="10dp"
+            app:srb_stepSize="0.5"
+            app:srb_clickable="false"
+            app:srb_isIndicator="true"
+            app:srb_clearRatingEnabled="false">
+        </com.willy.ratingbar.ScaleRatingBar>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Unit"
+            android:visibility="gone"
+            android:textColor="#000"
+            android:textSize="15sp" />
+
+
+        <TextView
+            android:id="@+id/itemdescunit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Unit"
+            android:textColor="#000"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/itemdescoff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#21a102"
+            android:padding="3dp"
+            android:visibility="gone"
+            android:text="10% OFF"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/itemdesName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Product Name"
+            android:textColor="#000"
+            android:textStyle="bold" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/hint" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/itemdesnewprice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="new Price"
+                android:textColor="#000"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/itemdesoldprice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:text="Old price"
+                android:paddingLeft="20dp"
+                android:textColor="#d1d0d0" />
+
+            <Button
+                android:id="@+id/itemdesButton"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:layout_gravity="right|center"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_shape_location2"
+                android:text="+ ADD"
+                android:textColor="@color/white"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/itemdesDesTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:text="Description" />
+
+        <TextView
+            android:id="@+id/itemdesDes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:text="Description About the productDescription About the productDescription About the productDescription About the product"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/itemdesSpecialityTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:text="manufacturer" />
+
+        <TextView
+            android:id="@+id/itemdesSpeciality"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:text="Description About the productDescription About the productDescription About the productDescription About the product"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/itemdesUsageTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:text="Reviews" />
+
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:id="@+id/Review_RV"
+            android:visibility="gone"/>
+        <TextView
+            android:id="@+id/itemdesUsage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Description About the productDescription About the productDescription About the productDescription About the product"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/itemdesProductSourceTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:drawableRight="@drawable/ic_chevron_right_black_24dp"
+            android:text="Product Source" />
+
+        <TextView
+            android:id="@+id/itemdesSource"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:text="Description About the productDescription About the productDescription About the productDescription About the product"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</ScrollView>

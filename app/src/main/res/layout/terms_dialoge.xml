@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:layout_marginBottom="80dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginTop="80dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="12dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="CONDITIONS OF USE
+It is strongly recommended that you read and understand these ‘Conditions of Use’ carefully, as by accessing this site (hereinafter the “Marketplace”), you agree to be bound by the same and acknowledge that it constitutes an agreement between you and the Company (hereinafter the “User Agreement”). If you do not agree with this User Agreement, you should not use or access the Marketplace for any purpose whatsoever.
+
+This document is published in accordance with the provisions of Rule 3 of the Information Technology (Intermediaries Guidelines) Rules, 2011. The User Agreement may be updated from time to time by the Company without notice. It is therefore strongly recommended that you review the User Agreement, as available on the Marketplace, each time you access and/or use the Marketplace.
+
+The terms ‘visitor(s)’, ‘user(s)’, ‘you’ hereunder refer to the person visiting, accessing, browsing through and/or using the Marketplace at any point in time.
+
+Should you have any clarifications regarding the Terms of Use, please do not hesitate to contact us at info@gagron.com.
+
+
+
+DEFINITIONS
+
+1.Wherever, the context of ‘You’, or ‘User’ or ‘Customer’ has been used, it will imply that the reference is to any natural or legal individual/entity and/or its representative, successors and assigns who has agreed to the terms and conditions of usage of the website and the services provided by the same by entering information while registering on the website.
+
+2. The Terms such as ‘We’, ‘Us’, ‘Our’ and ‘Gagron’ will imply Gagron and / or its representative, successors and assigns.
+
+3. “Website” is reference to our website www.gagron.com or our mobile application through which we offer our goods and services.
+
+4. “Store” means and includes the retail, franchise or other stores forming part of the distribution network of the Company which has agreed to subscribe to business model of the company for offering/delivering goods and services.
+
+5. “Agreement” is a reference and includes the terms and conditions, privacy policy, order form, pricing policy, return and cancellation policy, delivery instruction for payment provided to you.
+
+
+
+GENERAL
+
+This agreement is between the Customer or the Business you represent and gagron.com by First Tech and IT Services. By registering your information on the website as a customer or by using the services provided by Us, you agree to be bound by the terms and conditions enclosed in this document which will also include the Terms of Use and the Privacy Policy and other policies for every service you register for or which you are using in relation to gagron.com.
+
+Gagron.com is the website/portal and the Store/Business is a subscriber to the services wherein the customer is given a portal to order the entire product range of grocery and stuff of daily needs and/or any other products offered on the portal.
+
+ELIGIBILITY TO USE
+
+Any individual who is above the age of 18 years, any firm, company or association can duly subscribe to our services. The User represents that he/she is of legal age to enter into a legal obligation with the website and has not been restricted access to use the services offered by the website. A minor shall be allowed to use the services offered by the website only under the guardianship of an adult in accordance with the laws of India. If a User does not fall within the ambit of the aforementioned eligibility criteria, he/she will not be allowed to use the services offered by the website.
+
+
+
+CUSTOMER REGISTRATION INFORMATION
+
+
+
+USERNAME AND PASSWORD REQUEST
+
+The Username and Password requested by a customer is subject to the discretion of the Company. We may or may not accept the desired username and password as per the database so as to keep uniqueness. Recommendations will be provided to a new entrant in case the desired username and password is not approved due to any factor. During the registration process, the User’s ID along with the information is set. The user can change/add its contact numbers and addresses of delivery as per the usage and requirement of the user.
+
+
+
+CUSTOMER INFORMATION
+
+At the time of registration, it is imperative to add all the requisite details in the registration form to proceed to the next step. You are liable to provide us with correct information with respect to your age, whenever and wherever asked for, as it will determine your eligibility to legally contract with us. You should keep all the corrected information and your details of delivery address, contact numbers and other correspondence and communication updated at all times at your own responsibility. Company reserves its right to disable the ID of the user or to refuse registration at its own discretion.
+
+Company shall not be responsible and can neither be alleged to be deficient in services in the following circumstances:
+
+(i) Wrong delivery address provided by the User;
+
+(ii) Any loss to the User/Customer by furnishing incorrect or wrong particulars on the website of the company;
+
+(iii)Any deficit in remittance of payment to the company for the products ordered and
+
+(iv)Any wrong information or content published by the user on the website which violates the applicable laws, user shall be prosecuted under the statutory laws for the same.
+
+
+
+RESTRICTED USE OF WEBSITE
+
+User agrees not to use the content of the website in any unlawful manner. The user cannot copy, reproduce, republish, post, upload, display, translate, transmit or distribute any part of the Website or the content provided herein to any other means without taking prior consent from Gagron.
+
+Stores can use the information provided on Gagron but are strictly prohibited to:
+
+         Amend, Modify or remove any notice in any document;
+         Personal and non-commercial use of information;
+         Post or upload information of Gagron to any other networked computer;
+         Make any amendments/additions/deletions to the existing documentation;
+         Personal use of any content/image/information/design.
+The company does not promote any offensive or objectionable content and does not take responsibility of the same. Users are allowed to report any usage of offensive content through the processes mentioned in the following sections of this document.
+
+Users agree that Gagron has the complete authority to modify or delete all or some parts of the website. We hold the complete jurisdiction to waive of fees or offer discounts to the ranges of products or locations at our own discretion.
+
+This website shall only be used to surf and order products, goods for use by the customer. You hereby agree and undertake not to host, display, upload, modify, publish, transmit, update or share any information on this website in any manner which belongs to another person and to which you do not have any right or which;
+
+     is grossly harmful, harassing, blasphemous, defamatory, obscene, pornographic, pedophilic, libelous, invasive of another’s privacy, hateful, or racially, ethnically objectionable, disparaging, relating or encouraging money laundering or gambling, or otherwise unlawful in any manner whatever;
+     harms minors in any way;
+     infringes any patent, trademark, copyright or other proprietary/intellectual property rights;
+     violates any law for the time being in force;
+     deceives or misleads the addressee about the origin of such messages communicates any information which is grossly offensive or menacing in nature;
+     impersonates another person;
+     contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer resource;
+     threatens the unity, integrity, defense, security or sovereignty of India, friendly relations with foreign states, or public order or causes incitement to the commission of any cognizable offence or prevents investigation of any offence or is insulting any other nation; or
+     is misleading or known to be false in any way.
+
+
+INTELLECTUAL PROPERTY POLICY
+
+This website is the sole and exclusive proprietary right of First Tech and IT Services. All the intellectual property with respect to the products, material, content, concept, photographs are duly protected by the relevant IPR laws and are exclusively owned by the company or its subsidiaries or associate companies only. The website is protected under the Copyright Act as applicable in India and also under the international convention to which India is a signatory and thus has worldwide protection under copyright laws in the concept, material, pictures and any other data available on this portal exclusively belongs to the company.
+
+The company’s logos/trademarks/artist works or its service marks/names are trademarks owned by the company. The user undertakes not to display/use the same in any manner without the written prior permission of the company.
+
+User is advised not to misuse any IP of the website, content or of the company in any manner whatsoever. Any misuse by the user shall be construed to be a mala fide infringement and the company shall enforce its IP rights strictly against the user.
+
+Any reference to names, marks, products or services of third parties are merely advertisements or hyperlinks solely provided for the purposes of user friendly customer interface as per the requirements of the customer. They do not imply any company sponsorship, affiliation or recommendation between the company and such third party.
+
+
+
+PRODUCT INFORMATION LIABILITY
+
+The images as exhibited of the products on the website or on the mobile application are only for the purposes of representation and reference. The actual product might differ in its color, appearance or final packaging. The availability of the products shall be determined only at the time when the actual order is being placed and after confirmation of the delivery locations.
+
+The pictures and the colors of the product as displayed on the website may differ with the actual product delivered.
+
+The products and packaging as exhibited on the website might vary with the details of the product delivered to you with respect to the batch number, date of packing, date of expiry as these would vary so as to ensure quality products being delivered to the customer.
+
+In case the manufacturer, changes the packaging while retaining the quantity and contents, then again the product as delivered shall vary in its look.
+
+Thus, colour variation, details of label on the product and packaging of change in bottle or box or container shall not amount to defect or deficiency in service.
+
+The perishable products being goods or products of daily needs have limited shelf life due to its perish ability and thus any grievance for those cannot be taken cognizance of by the company if the same is not reported within a span of 24 hours from the time the product was delivered to the customer.
+
+
+
+CUSTOMER OPINION AND FEEDBACK
+
+The company works on the principles of genuine feedback and improvement and thus encourages opinion of customers. The company has a policy of reporting all feedback on its website to the senior level officers, who make every effort to improvise on the matters within the ambit of the company.
+
+All opinions, reviews, comments, feedback, suggestions, ideas, and other submissions disclosed, submitted or offered on the Website or otherwise disclosed, submitted or offered in connection with use of the Website or the mobile application (collectively, the Comments) shall be and remain the property of the Company. Such disclosure, submission or offer of any Comments shall constitute an assignment to the Company of all worldwide rights, titles and interests in all copyrights and other intellectual properties in the Comments. Thus, the Company shall exclusively own all such rights, titles and interests in the Comments and shall not be limited in any way in its use in any manner whatsoever whether  commercial or otherwise.
+
+
+The Company will be entitled to reproduce, exhibit, use, disclose, modify, adapt, create derivative works from any Comments, and publish, display and distribute any Comments submitted for any purpose whatsoever without restriction and without compensating the user in any way. The Company is and shall be under no obligation to: (i) maintain any Comments as confidential; or (ii) pay compensation for any Comments; or (iii) respond to any Comments. You agree that any Comments submitted by you on the Site will not violate the Terms of Use or any right of any third party, including copyright, trademark, privacy or other personal or proprietary right(s), and will not cause injury to any person or entity. You further agree that no Comments submitted by you on the Site will be or contain slanderous, libelous or otherwise unlawful, threatening, abusive or obscene material, or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mails or any form of ‘spam’. The Company does reserve the right (but assumes no obligation) to monitor, edit and/or remove any Comments submitted on the Site. You hereby grant the Company the right to use names that you submit in connection with any Comments. You agree not to use a false email address, impersonate any person or entity, or otherwise mislead as to the origin of any Comments you submit. You are, and shall remain, responsible for the content of any Comments you make and you agree to indemnify the Company and its affiliates against all claims, loss and liabilities resulting from any Comments you submit.
+
+Further, any reliance placed on Comments available on the Site from a third party shall be at your sole risk and expense.
+
+PAYMENT POLICY
+
+User may opt for Cash on Delivery option whereby the user shall make the payment to the company’s authorized representative who shall be delivering the order. The user shall be given a proper receipt as against the payment with the order.
+
+User is entitled to use his/her credit/debit or any other payment cards or online banking facility to make the payment for goods ordered on website or mobile application. User understands and agrees that the facilitation of payment through credit cards, debit cards, internet banking etc., are all processed through an outsourced third party payment processor.  The usage of these gateways might require further acceptance of certain terms and conditions between the user and them.
+
+In the event of use of third party payment gateway, the company redirects the user to the said website and it does not collect or access or store or process any information of the user relating to the Credit Card, Debit Card, Net Banking or any other financial information. Kindly read and understand the privacy policy of the payment gateway before processing your payment.
+
+INDEMNITY
+
+The user agrees to indemnify and hold the company harmless and its employees as well as representatives, assigns, successors at all times against all or any claims, damages, liabilities, costs and expenses including attorney’s fees caused by or arising out of claims based upon the actions or omissions of the user. This clause shall survive the termination or expiry of this user agreement as well.
+
+TERMINATION
+
+This User agreement is valid and subsisting till the time the user continues to use the website or mobile application of the company. The user may discontinue any further use of the website at any time. The company may also terminate this agreement with or without notice and accordingly block the access of the user to the website or mobile application. Such termination shall be without any liability to the company. User undertakes to destroy or delete all the material if any downloaded from the website or mobile application of the company at the time of discontinuation of its services.
+
+PRICING POLICY
+
+The products shall be sold at the Maximum Retail Price or less as stated on the label of the packaging. The goods will never be sold at a price higher than the MRP. The price charged as on the date of order and payment shall prevail and not those as on the date of delivery. Rounding off of the bill amount will be done to nearest rupee. i.e. fraction of 50 paisa and above shall be rounded off to the next higher rupee and fraction of less than 50 paisa shall be ignored.
+
+
+
+LEGAL POLICY
+
+In case if a dispute arises between the User and Company, both shall submit to the jurisdiction of a sole arbitrator appointed by the company and under the provisions of Arbitration and Conciliation Act, 1996. The disputes shall be subject to the jurisdiction of the courts at Kota.
+
+Any dispute arising out of or in connection with this agreement between the store and the company shall be resolved by referring the dispute to an arbitrator mutually appointed by both the parties or in case of dispute as appointed by the Hon’ble Court at Kota, Rajasthan having jurisdiction over this agreement. The said arbitration shall be in consonance with the provisions of the Arbitration and Conciliation Act, 1996. The language of arbitration shall be English and place shall be Kota, Rajasthan.  This agreement shall be governed by the laws of India." />
+
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.v7.widget.CardView>
